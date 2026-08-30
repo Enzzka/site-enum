@@ -17,9 +17,12 @@ Any critics, suggestions, or advice are highly welcome! Feel free to open an iss
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Enzzka/site-enum.git
    ```
 
 2. Open the script and change the `domain` variable to your target website (default is `www.google.com`).
 
-3. Run the script
+3. Run the script via terminal:
+   ```bash
+   python site-enum.py
+   ```
